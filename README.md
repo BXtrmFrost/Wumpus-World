@@ -31,6 +31,11 @@ The Knowledge-Based Agent has sensors as followed
 `[SPACE + Arrow Keys] = Shoot`
 `[R] = Reset the Game`
 
-#### Developed by Hari Om Swarup S A
+### To run the Game
+```
+$ python -u "main.py"
+```
+
+#
 - I do not own any of the fonts that are used in the game.
 - All the best finding gold! 😀
