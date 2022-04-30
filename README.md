@@ -1,7 +1,7 @@
 # Wumpus World
 
 Wumpus World is a game that depicts the value of a knowledge-based agent and the interpretation of that knowledge with the help of reasoning and planning.
-![Wumpus World]()
+![Wumpus World](https://raw.githubusercontent.com/BXtrmFrost/Wumpus-World/main/Assets/Images/Wumpus_world_inshot.png)
 
 ## What is the game?
 The Wumpus World is 6×6 cave with 36 rooms connected to each other passageways (slightly modified from the actual). The knowledge-based agent goes forward in this world.
