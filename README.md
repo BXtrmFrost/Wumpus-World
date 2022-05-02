@@ -13,7 +13,7 @@ The Wumpus World is 6×6 cave with 36 rooms connected to each other passageways 
 #### Goal
  - The cave has one room with the possibility of a heap of gold. the agent's goal is to find this gold.
 #### Simple Meaning
- - Win the game by finding the room having gold by avoid falling into "pits" and getting eaten by "Wumpus World".
+ - Win the game by finding the room having gold by avoid falling into "pits" and getting eaten by "Wumpus Monster".
 #### Knowledge-Based Agent
  - You will be playing as Knowledge-Based Agent that finds the room containing Gold. 
  - The Agent will also have an arrow to kill the Wumpus Monster.
