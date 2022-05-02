@@ -133,7 +133,6 @@ def game_call():
     player_xpos = 135
     player_ypos = 640
     maap = random.randint(0, 4)
-    print(maap)
     __gamemap__ = create_gamemap(maap)
 
 
